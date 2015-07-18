@@ -1,0 +1,7 @@
+# Introdução
+
+## Por que utilizar um controle de versões?
+
+Sempre que pergunto às pessoas porque elas não utilizam uma ferramenta de controle versões em seus projetos, a justificativa, na maioria das vezes, é sempre a mesma: _"Ah! Não precisa, trabalho sozinho nesse projeto"_. Mas, o que elas não sabem, é que essas ferramentas não só ajudam no trabalho em equipe, como também ajudam à você a se manter organizado e seguro das mudanças realizadas, quesitos fundamentais para aumentar sua produtividade.
+
+Ter um histórico de tudo que foi produzido e, além disso, navegar entre essas mudanças, é algo que torna o trabalho
