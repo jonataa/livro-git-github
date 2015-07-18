@@ -2,14 +2,12 @@
 
 ## O que é um controle de versões?
 
-É uma ferramenta que auxilia você a gerenciar as mudanças dos seus documentos, códigos fontes ou qualquer outro tipo de arquivo. As mudanças são versionadas e armazenadas localmente a fim de acompanhar e realizar comparações de arquivos a partir das versões anteriores. As ferramentas de controle versões tem como principal objetivo responder a quatro perguntas mágicas: 
+É uma ferramenta que auxilia você a gerenciar as mudanças dos seus documentos, códigos fontes ou qualquer outro arquivo. As mudanças são versionadas e armazenadas localmente a fim de acompanhar e realizar comparações de arquivos a partir das versões anteriores. As ferramentas de controle versões tem como principal objetivo responder a quatro perguntas mágicas: 
 
 * **O QUE** exatamente foi alterado?
 * **QUANDO** essa mudança foi realizada?
 * **QUEM** realizou essa alteração?
 * **POR QUE** fizeram essa mudança?
-
-Ter esse controle, mantém você organizado e ciente de todas as mudanças realizadas nos seus arquivos.
 
 
 ## Por que utilizar um controle de versões?
